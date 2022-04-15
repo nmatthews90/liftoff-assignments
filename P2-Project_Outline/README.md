@@ -16,10 +16,10 @@ The idea came out of the art world where you could set to reminder to streach yo
 
 ### Features
 
-User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
-Set Daily Reminders: User can set a set time for a reminder to happen. User can update if goal changes.
-Sharable Progress: User can share progress to social media.
-Categories: User can put goals into customizable catagories.
+- User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+- Set Daily Reminders: User can set a set time for a reminder to happen. User can update if goal changes.
+- Sharable Progress: User can share progress to social media.
+- Categories: User can put goals into customizable catagories.
 
 ### Technologies
 
@@ -27,9 +27,9 @@ Java, Spring Boot, MySql, Hibernate, Thymeleaf
 
 ### What I'll Have to Learn
 
-Learn Date and Time functinality to trigger reminder to happen.
-Keep track of daily progess on different goals.
-Make goals sharable to socila media websites.
+- Learn Date and Time functinality to trigger reminder to happen.
+- Keep track of daily progess on different goals.
+- Make goals sharable to socila media websites.
 
 ### Project Tracker
 
