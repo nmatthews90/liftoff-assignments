@@ -23,7 +23,7 @@ Categories: User can put goals into customizable catagories.
 
 ### Technologies
 
-Java, Spring Boot, MySql, Hibernate,
+Java, Spring Boot, MySql, Hibernate, Thymeleaf
 
 ### What I'll Have to Learn
 
